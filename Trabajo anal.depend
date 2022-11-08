@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1667699711 source:d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\src\aa.cpp
+	"aa.h"
+
+1667699710 d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\include\aa.h
+
+1667921896 source:d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"recurBubbleSort.h"
+	"mergeSort.h"
+	"shellSort.h"
+	"quickSort.h"
+	"utils.h"
+
+1667918515 d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\include\recurbubblesort.h
+
+1667918502 source:d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\src\recurbubblesort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"recurBubbleSort.h"
+
+1667921960 source:d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\src\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1667918401 d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\include\utils.h
+
+1667918504 source:d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\src\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"mergeSort.h"
+
+1667918459 d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\include\mergesort.h
+
+1667918446 source:d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\src\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"quickSort.h"
+
+1667918399 d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\include\quicksort.h
+
+1667918503 source:d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\src\shellsort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"shellSort.h"
+
+1667918485 d:\users\lucas droguett.000\documents\codeblocks\trabajo anal\include\shellsort.h
+
